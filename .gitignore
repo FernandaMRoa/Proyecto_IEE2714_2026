@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editores / sistema
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Imagenes de los experimentos 
+datos/urban100/
+datos/bsd100/
+datos/set14/
+datos/otros/
+
+# Salidas de pruebas locales 
+demo/
+salida/
+caso/
